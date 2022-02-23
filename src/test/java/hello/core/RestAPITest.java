@@ -38,7 +38,7 @@ public class RestAPITest {
                     (conn.getInputStream())));
 
             String output;
-            System.out.println("Output from Server .... \n");
+            System.out.println("Output from Sdddddderver .... \n");
             while ((output = br.readLine()) != null) {
                 System.out.println(output);
             }
