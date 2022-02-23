@@ -40,7 +40,7 @@ public class RestAPITest {
             String output;
             System.out.println("Output from Sdddddderver .... \n");
             while ((output = br.readLine()) != null) {
-                System.out.println(output);
+                System.out.println(output + "tttttt");
             }
 
             conn.disconnect();
