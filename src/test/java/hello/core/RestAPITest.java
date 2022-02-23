@@ -41,6 +41,7 @@ public class RestAPITest {
             System.out.println("Output from Sdddddderver .... \n");
             while ((output = br.readLine()) != null) {
                 System.out.println("output = "+output + "bug fix");
+                System.out.println("개발중");
             }
 
             conn.disconnect();
